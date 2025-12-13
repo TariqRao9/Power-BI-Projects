@@ -2,7 +2,7 @@
 
 This dashboard provides a comprehensive analytical overview of the Pakistan Super League (PSL) by combining team performance metrics with individual player statistics across batting, bowling, and fielding. It is designed to give quick insights into overall league trends as well as highlight top-performing teams and players.
 
-**1. Key Performance Indicators (Top Summary Cards)**
+## **1. Key Performance Indicators (Top Summary Cards)**
 
 At the top of the dashboard, high-level KPIs summarize overall league performance:
 
@@ -20,7 +20,7 @@ At the top of the dashboard, high-level KPIs summarize overall league performanc
 
 These KPIs provide a quick snapshot of the league’s batting and bowling balance.
 
-**2. Wicket-Keeping & Fielding Contribution**
+## **2. Wicket-Keeping & Fielding Contribution**
 
 The donut chart (Count and Average of Catches and Dismissals) visualizes wicket-keeping and fielding effectiveness:
 
@@ -28,7 +28,7 @@ It compares the average total catches and average total dismissals, showing the 
 
 This highlights the importance of wicket-keepers and close fielders in influencing match outcomes.
 
-**3. Team Performance Analysis**
+## **3. Team Performance Analysis**
 
 The line chart (Winning % by Teams) compares win percentages across PSL franchises:
 
@@ -40,7 +40,7 @@ Quetta Gladiators, Lahore Qalandars, and Karachi Kings show comparatively lower 
 
 This visualization allows quick comparison of team dominance and long-term consistency.
 
-**4. Top Bowlers by Wickets**
+## **4. Top Bowlers by Wickets**
 
 The bar chart (Top 10 Bowlers by Wickets) ranks the leading wicket-takers in PSL history:
 
@@ -50,7 +50,7 @@ The chart emphasizes wicket-taking ability as a key factor in match success.
 
 It also allows comparison among fast bowlers and spinners.
 
-**5. Top Batters by Runs**
+## **5. Top Batters by Runs**
 
 The bar chart (Top 10 Players by Runs) highlights the most prolific run-scorers:
 
@@ -60,7 +60,7 @@ Other top contributors include Fakhar Zaman, Mohammad Rizwan, and Shoaib Malik.
 
 This section reflects long-term batting reliability rather than single-match performances.
 
-**6. Overall Insights**
+## **6. Overall Insights**
 
 The dashboard balances team-level performance with individual excellence.
 
@@ -68,6 +68,6 @@ It captures the high-scoring nature of the PSL alongside effective bowling perfo
 
 The visuals support trend analysis, player comparisons, and team evaluation, making the dashboard suitable for analysts, journalists, and cricket enthusiasts.
 
-**Conclusion**
+## **Conclusion**
 
 This dashboard effectively transforms raw PSL data into actionable insights, offering a holistic view of league performance, team success, and individual player impact. It serves as a strong foundation for further analysis, storytelling, and decision-making in cricket analytics.
