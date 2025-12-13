@@ -1,4 +1,4 @@
-**PSL Players and Team Performance dashboard**
+# **PSL Players and Team Performance dashboard**
 
 This dashboard provides a comprehensive analytical overview of the Pakistan Super League (PSL) by combining team performance metrics with individual player statistics across batting, bowling, and fielding. It is designed to give quick insights into overall league trends as well as highlight top-performing teams and players.
 
