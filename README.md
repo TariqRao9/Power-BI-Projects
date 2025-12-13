@@ -13,5 +13,5 @@ This repository contains interactive Power BI dashboards created for data analys
 Each folder in this repository represents a separate Power BI project.
 Open any folder to view the dashboard, dataset, and insights.
 
-## Author
+##  Author
 Muhammad Tariq
